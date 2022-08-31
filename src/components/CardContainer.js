@@ -2,6 +2,8 @@ import React from "react";
 import Card from "./Card";
 import images from "../assets";
 
+import styles from "../styles/CardContainer.module.css";
+
 const CardContainer = () => {
   const createCards = () => {
     const cards = [];
@@ -14,7 +16,7 @@ const CardContainer = () => {
     return cards;
   };
 
-  return <div>{createCards()}</div>;
+  return <div className={styles.container}>{createCards()}</div>;
 };
 
 export default CardContainer;
