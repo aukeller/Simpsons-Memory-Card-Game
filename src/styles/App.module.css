@@ -1,5 +1,17 @@
+@font-face {
+  font-family: "Marker";
+  src: url(../assets/PermanentMarker-Regular.ttf);
+}
+
+body {
+  background-color: lightblue;
+  font-family: "Marker";
+}
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+
+  padding: 0px 30px;
 }
