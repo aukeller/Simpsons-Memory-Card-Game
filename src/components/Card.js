@@ -9,7 +9,7 @@ const Card = (props) => {
   }
 
   return (
-    <div className={styles.card}>
+    <div className={styles.card} onClick={props.cardClick}>
       <img
         className={`${styles.image} ${
           specialClass.current ? styles.special : ""
