@@ -1,10 +1,10 @@
 import React from "react";
 
-const Scoreboard = () => {
+const Scoreboard = (props) => {
   return (
     <div>
-      <div>Score: </div>
-      <div>Best Score: </div>
+      <div>Score: {props.score}</div>
+      <div>Best Score: 0 </div>
     </div>
   );
 };

@@ -17,9 +17,9 @@ function App() {
     <div>
       <div className={styles.header}>
         <Header />
-        <Scoreboard />
+        <Scoreboard score={score} />
       </div>
-      <CardContainer score={score} cardClick={cardClick} />
+      <CardContainer cardClick={cardClick} />
     </div>
   );
 }
