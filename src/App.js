@@ -8,9 +8,18 @@ import styles from "./styles/App.module.css";
 
 function App() {
   const [score, setScore] = useState(0);
+  const [clickedCharacters, setClickedCharacters] = useState([]);
 
-  const cardClick = () => {
-    setScore(score + 1);
+  const cardClick = (e) => {
+    let card = e.currentTarget;
+
+    if (clickedCharacters.includes(card.id)) {
+      setClickedCharacters([]);
+      setScore(0);
+    } else {
+      setClickedCharacters([...clickedCharacters, card.id]);
+      setScore(score + 1);
+    }
   };
 
   return (
