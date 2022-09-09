@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simpsons-Memory-Card-Game/static/css/main.adca865a.css",
+    "main.js": "/Simpsons-Memory-Card-Game/static/js/main.737e5527.js",
+    "static/media/PermanentMarker-Regular.ttf": "/Simpsons-Memory-Card-Game/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "static/media/Abraham_Simpson.webp": "/Simpsons-Memory-Card-Game/static/media/Abraham_Simpson.22a11f8c01be668c6ae5.webp",
+    "static/media/Montgomery_Burns.webp": "/Simpsons-Memory-Card-Game/static/media/Montgomery_Burns.2fee720d83b128e620c6.webp",
+    "static/media/Lisa_Simpson_official.webp": "/Simpsons-Memory-Card-Game/static/media/Lisa_Simpson_official.4919419ef6086f993750.webp",
+    "static/media/Homer_Simpson.webp": "/Simpsons-Memory-Card-Game/static/media/Homer_Simpson.c6258fef05bea9f17d11.webp",
+    "static/media/Ned_Flanders.webp": "/Simpsons-Memory-Card-Game/static/media/Ned_Flanders.b875d3f49188b7c8a1fd.webp",
+    "static/media/220px-Moe_Szyslak.webp": "/Simpsons-Memory-Card-Game/static/media/220px-Moe_Szyslak.a41c9ea7a552791b29b0.webp",
+    "static/media/Maggie_Simpson.webp": "/Simpsons-Memory-Card-Game/static/media/Maggie_Simpson.4c3e66e8195b9cb40f2a.webp",
+    "static/media/MargeSimpson.webp": "/Simpsons-Memory-Card-Game/static/media/MargeSimpson.67d4f63960292b5307a8.webp",
+    "static/media/Waylon_Smithers.webp": "/Simpsons-Memory-Card-Game/static/media/Waylon_Smithers.fa080a0400cdb531f51f.webp",
+    "static/media/Bart_Simpson.webp": "/Simpsons-Memory-Card-Game/static/media/Bart_Simpson.d6905d1fa479f9810855.webp",
+    "static/media/Lenny_Leonard.webp": "/Simpsons-Memory-Card-Game/static/media/Lenny_Leonard.6daee1accf2463cea4cc.webp",
+    "static/media/Carl_Carlson_-_shading.webp": "/Simpsons-Memory-Card-Game/static/media/Carl_Carlson_-_shading.f83788ce385d9f7dfa0f.webp",
+    "index.html": "/Simpsons-Memory-Card-Game/index.html",
+    "main.adca865a.css.map": "/Simpsons-Memory-Card-Game/static/css/main.adca865a.css.map",
+    "main.737e5527.js.map": "/Simpsons-Memory-Card-Game/static/js/main.737e5527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adca865a.css",
+    "static/js/main.737e5527.js"
+  ]
+}
